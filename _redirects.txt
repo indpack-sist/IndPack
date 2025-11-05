@@ -1,0 +1,13 @@
+# Redirigir todo el tráfico HTTP a HTTPS
+http://indpackperu.com/* https://www.indpackperu.com/:splat 301!
+http://www.indpackperu.com/* https://www.indpackperu.com/:splat 301!
+
+# Redirigir versión sin www a con www
+https://indpackperu.com/* https://www.indpackperu.com/:splat 301!
+
+# Headers de seguridad
+/*
+  X-Frame-Options: DENY
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin-when-cross-origin
