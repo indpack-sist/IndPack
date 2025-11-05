@@ -1,0 +1,17 @@
+# Robots.txt para Indpack SAC
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cgi-bin/
+
+# Permitir acceso a recursos importantes
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+# Sitemaps
+Sitemap: https://indpackperu.com/sitemap.xml
+Sitemap: https://indpackperu.com/sitemap-images.xml
+
+# Crawl delay
+Crawl-delay: 1
