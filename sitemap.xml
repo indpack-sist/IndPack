@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Página Principal -->
+  <url>
+    <loc>https://indpackperu.com/</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://indpackperu.com/images/logohorizontal.png</image:loc>
+      <image:title>Indpack SAC - Productos de Embalaje Industrial</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://indpackperu.com/images/burbupackhd.jpg</image:loc>
+      <image:title>Burbupack - Protector de burbujas</image:title>
+    </image:image>
+  </url>
+
+  <!-- Sección Nosotros -->
+  <url>
+    <loc>https://indpackperu.com/#nosotros</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Sección Productos -->
+  <url>
+    <loc>https://indpackperu.com/#productos</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://indpackperu.com/images/burbupack-film-burbujas-polietileno.png</image:loc>
+      <image:title>Burbupack - Film de burbujas de polietileno</image:title>
+      <image:caption>Protector de burbujas fabricado en polietileno para embalaje seguro</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://indpackperu.com/images/zuncho-plastico-embalaje-industrial.png</image:loc>
+      <image:title>Zuncho Plástico - Cinta para amarre y fijación</image:title>
+      <image:caption>Zuncho plástico en diferentes colores y grosores para embalaje</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://indpackperu.com/images/zuncho-pet-poliester-resistente.png</image:loc>
+      <image:title>Zuncho PET - Alternativa resistente al acero</image:title>
+      <image:caption>Zuncho de poliéster con alta resistencia para cargas pesadas</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://indpackperu.com/images/esquineros.jpg</image:loc>
+      <image:title>Esquineros Plásticos - Protectores de esquinas</image:title>
+      <image:caption>Protectores de esquinas para transporte y almacenamiento</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://indpackperu.com/images/grapas.webp</image:loc>
+      <image:title>Grapas Industriales - Grapas lisas y piñas</image:title>
+      <image:caption>Grapas galvanizadas para zuncho resistentes a corrosión</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Sección Herramientas -->
+  <url>
+    <loc>https://indpackperu.com/#herramientas</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://indpackperu.com/images/ensunchadora-automatica.jpg</image:loc>
+      <image:title>Ensunchadora Automática - Equipo de zunchado profesional</image:title>
+      <image:caption>Ensunchadora automática con sistema de tensado regulable</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://indpackperu.com/images/ensunchadoram.jpg</image:loc>
+      <image:title>Ensunchadora Manual - Herramienta portátil de zunchado</image:title>
+      <image:caption>Ensunchadora manual versátil para embalaje flexible</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Sección Contacto -->
+  <url>
+    <loc>https://indpackperu.com/#contacto</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Sección Misión y Visión -->
+  <url>
+    <loc>https://indpackperu.com/#mision-vision</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Sección Valores -->
+  <url>
+    <loc>https://indpackperu.com/#valores</loc>
+    <lastmod>2025-01-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
