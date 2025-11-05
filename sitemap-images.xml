@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <url>
+    <loc>https://indpackperu.com/</loc>
+    
+    <!-- Burbupack -->
+    <image:image>
+      <image:loc>https://indpackperu.com/images/burbupack-film-burbujas-polietileno.png</image:loc>
+      <image:title>Burbupack - Film de burbujas</image:title>
+      <image:caption>Protector de burbujas de polietileno para embalaje seguro de productos frágiles</image:caption>
+    </image:image>
+    
+    <!-- Zuncho Plástico -->
+    <image:image>
+      <image:loc>https://indpackperu.com/images/zuncho-plastico-embalaje-industrial.png</image:loc>
+      <image:title>Zuncho Plástico</image:title>
+      <image:caption>Cinta plástica para amarre, fijación y embalaje de paquetes en diferentes colores</image:caption>
+    </image:image>
+    
+    <!-- Zuncho PET -->
+    <image:image>
+      <image:loc>https://indpackperu.com/images/zuncho-pet-poliester-resistente.png</image:loc>
+      <image:title>Zuncho PET de Poliéster</image:title>
+      <image:caption>Zuncho de poliéster alternativa resistente al acero para cargas pesadas</image:caption>
+    </image:image>
+    
+    <!-- Esquineros -->
+    <image:image>
+      <image:loc>https://indpackperu.com/images/esquineros.jpg</image:loc>
+      <image:title>Esquineros Plásticos Protectores</image:title>
+      <image:caption>Protectores de esquinas y bordes para transporte y almacenamiento seguro</image:caption>
+    </image:image>
+    
+    <!-- Grapas -->
+    <image:image>
+      <image:loc>https://indpackperu.com/images/grapas.webp</image:loc>
+      <image:title>Grapas Industriales para Zuncho</image:title>
+      <image:caption>Grapas lisas y piñas galvanizadas resistentes a corrosión para zunchado</image:caption>
+    </image:image>
+    
+    <!-- Ensunchadora Automática -->
+    <image:image>
+      <image:loc>https://indpackperu.com/images/ensunchadora-automatica.jpg</image:loc>
+      <image:title>Ensunchadora Automática Profesional</image:title>
+      <image:caption>Equipo automático de zunchado con sistema de tensado regulable para alto volumen</image:caption>
+    </image:image>
+    
+    <!-- Ensunchadora Manual -->
+    <image:image>
+      <image:loc>https://indpackperu.com/images/ensunchadoram.jpg</image:loc>
+      <image:title>Ensunchadora Manual Portátil</image:title>
+      <image:caption>Herramienta manual de zunchado versátil para embalaje flexible y preciso</image:caption>
+    </image:image>
+    
+    <!-- Logo -->
+    <image:image>
+      <image:loc>https://indpackperu.com/images/logohorizontal.png</image:loc>
+      <image:title>Indpack SAC Logo</image:title>
+      <image:caption>Indpack SAC - Fabricante de productos plásticos de embalaje industrial</image:caption>
+    </image:image>
+    
+  </url>
+</urlset>
